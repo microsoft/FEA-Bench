@@ -9,7 +9,7 @@ description = "FEA-Bench: A Benchmark for Evaluating Repository-Level Code Gener
 license = { text = "MIT" }  
 requires-python = ">=3.10"
 dependencies = [
-    "vllm==0.7.2",
+    "vllm==0.8.0",
     "tqdm",
     "datasets",
     "tenacity",
