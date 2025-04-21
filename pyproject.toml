@@ -13,7 +13,13 @@ dependencies = [
     "tqdm",
     "datasets",
     "tenacity",
-    "openai"
+    "openai",
+    "beautifulsoup4",
+    "ghapi",
+    "fastcore",
+    "unidiff",
+    "GitPython",
+    "chardet"
 ]
 
 [tool.setuptools]
